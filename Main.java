@@ -19,9 +19,7 @@
            Arr[i] =acopy %10;
            acopy = acopy/10;
         }
-        
-                return Arr;
-        
+        return Arr;
     } 
     
         
