@@ -8,7 +8,7 @@
     int num3 =0;
     int count =10;
     System.out.println(num1);
-   System.out.println(num2);
+    System.out.println(num2);
         for(int i=0; i<count; i++){
 
         num3 =num1+ num2;
